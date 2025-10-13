@@ -107,7 +107,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 💡 Author
 
 **Anees** — Android Developer & Creative Technologist  
-📍 [GitHub](https://github.com/aneesxy) • [LinkedIn](#) • [Twitter](#)
+📍 [GitHub](https://github.com/realaneesani) • [LinkedIn](https://www.linkedin.com/in/aneesan/) 
 
 > “I built this for fun after seeing how complicated simple screen-sharing apps had become.”
 
