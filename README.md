@@ -72,7 +72,7 @@ and it turned out surprisingly smooth.
 ### 📲 Android-to-Android
 1. Clone the repository:
    ```bash
-   git clone https://github.com/aneesxy/LocalScreenShare.git
+   git clone https://github.com/erTesla/LocalScreenShare-Android.git
    ```
 2. Open in **Android Studio**.
 3. Build and install the app on both devices.
